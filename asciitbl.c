@@ -2,8 +2,6 @@
 /* dec, hex, char, octal, description */
 
 #include <stdio.h>
-#include <stdio.h>
-#include <string.h>
 #include "asciitbl.h"
 
 void print_ascii(char str[][15]) {
