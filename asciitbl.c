@@ -1,5 +1,5 @@
 /* prints out a basic ASCII table */
-/* dec, hex, char, octal, raw, description */
+/* dec, hex, char, octal, description */
 
 #include <stdio.h>
 #include <stdio.h>
