@@ -1,3 +1,4 @@
+/* header file for asciitbl.c, so it */
 /* prints out a basic ASCII table */
 /* dec, hex, char, octal, description */
 
